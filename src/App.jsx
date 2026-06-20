@@ -28,7 +28,7 @@ function App() {
         
         {/* Floating WhatsApp Icon */}
         <a 
-          href="https://wa.me/918080201509" 
+          href="https://wa.me/918124996319" 
           target="_blank" 
           rel="noopener noreferrer"
           style={{

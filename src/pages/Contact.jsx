@@ -69,7 +69,7 @@ const Contact = () => {
             <div style={{ background: '#fff', padding: '3rem', borderRadius: '12px', boxShadow: '0 4px 15px rgba(0,0,0,0.05)', borderTop: '4px solid var(--primary)' }}>
               <h2 className="section-title" style={{ fontSize: '1.8rem', marginBottom: '1.5rem', textAlign: 'left' }}>Our Headquarters</h2>
               <p style={{ color: 'var(--text-muted)', lineHeight: '1.8', fontSize: '1.1rem' }}>
-                123 NutNutties Blvd, Suite 400<br/>
+                123 SR Nuts World Blvd, Suite 400<br/>
                 San Francisco, CA 94107<br/>
                 United States
               </p>
@@ -87,7 +87,7 @@ const Contact = () => {
 
               <div>
                 <h3 style={{ fontSize: '1.2rem', marginBottom: '0.5rem', fontFamily: 'Outfit' }}>Wholesale & Corporate</h3>
-                <p style={{ color: '#e0e0e0', lineHeight: '1.6' }}>For bulk orders, please email directly at:<br/><strong>wholesale@nutnutties.com</strong></p>
+                <p style={{ color: '#e0e0e0', lineHeight: '1.6' }}>For bulk orders, please email directly at:<br/><strong>wholesale@srnutsworld.com</strong></p>
               </div>
             </div>
 

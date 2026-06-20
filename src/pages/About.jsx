@@ -46,10 +46,10 @@ const About = () => {
           <h2 className="section-title">Our Story</h2>
           <p className="section-subtitle">A journey of taste, health, and tradition.</p>
           <p style={{ marginBottom: '2rem' }}>
-            At NutNutties, we believe that snacking should be a luxurious experience that doesn't compromise on health. Our journey began with a simple passion for finding the highest quality nuts from around the world. We travel to the finest farms, building relationships with farmers who share our commitment to organic, sustainable practices.
+            At SR Nuts World, we believe that snacking should be a luxurious experience that doesn't compromise on health. Our journey began with a simple passion for finding the highest quality nuts from around the world. We travel to the finest farms, building relationships with farmers who share our commitment to organic, sustainable practices.
           </p>
           <p>
-            Every jar of NutNutties is a testament to our dedication to quality. Elevate your everyday moments with NutNutties.
+            Every jar of SR Nuts World is a testament to our dedication to quality. Elevate your everyday moments with SR Nuts World.
           </p>
         </motion.div>
       </section>
@@ -88,7 +88,7 @@ const About = () => {
       <section className="split-section">
         <motion.div className="split-content" initial={{ opacity: 0, x: 50 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }}>
           <h2 className="split-title">Artisanal Roasting</h2>
-          <p className="split-text">Our master roasters treat each batch of nuts like a work of art. Using traditional methods and state-of-the-art equipment, we achieve the perfect crunch and flavor profile that NutNutties is famous for. No shortcuts, just pure dedication to the craft.</p>
+          <p className="split-text">Our master roasters treat each batch of nuts like a work of art. Using traditional methods and state-of-the-art equipment, we achieve the perfect crunch and flavor profile that SR Nuts World is famous for. No shortcuts, just pure dedication to the craft.</p>
         </motion.div>
         <motion.div className="split-image" initial={{ opacity: 0, scale: 0.9 }} whileInView={{ opacity: 1, scale: 1 }} viewport={{ once: true }}>
           <img src="/roasting.png" alt="Artisanal Roasting" />
@@ -102,7 +102,7 @@ const About = () => {
           <p className="section-subtitle" style={{ marginBottom: '2rem' }}>To redefine premium snacking globally while empowering local farmers and promoting sustainable agricultural practices.</p>
           <div style={{ background: '#fff', padding: '3rem', borderRadius: '12px', boxShadow: '0 4px 15px rgba(0,0,0,0.05)', textAlign: 'left', lineHeight: '1.8', color: 'var(--text-muted)' }}>
             <p style={{ marginBottom: '1.5rem' }}>
-              At NutNutties, our mission goes far beyond simply selling dry fruits. We are on a quest to change how people think about snacking. In a world dominated by ultra-processed foods, we want to bring people back to nature's original superfoods, proving that healthy snacking can be an incredibly luxurious and delicious experience.
+              At SR Nuts World, our mission goes far beyond simply selling dry fruits. We are on a quest to change how people think about snacking. In a world dominated by ultra-processed foods, we want to bring people back to nature's original superfoods, proving that healthy snacking can be an incredibly luxurious and delicious experience.
             </p>
             <p>
               We are equally committed to the people who make this possible. By practicing direct trade, we ensure that the local farmers who cultivate these beautiful ingredients are paid fairly and empowered to grow their businesses, allowing their communities to thrive alongside ours.

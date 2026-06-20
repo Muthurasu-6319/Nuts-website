@@ -15,7 +15,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <NavLink to="/" className="logo" style={{ zIndex: 1001 }}>NutNutties.</NavLink>
+      <NavLink to="/" className="logo" style={{ zIndex: 1001 }}>SR Nuts World.</NavLink>
       
       {/* Mobile Menu Toggle */}
       <div className="mobile-menu-icon" onClick={() => setMobileMenuOpen(!mobileMenuOpen)} style={{ zIndex: 1001, position: 'relative' }}>
@@ -28,7 +28,8 @@ const Navbar = () => {
           className="dropdown"
           onMouseEnter={() => setDropdownOpen(true)}
           onMouseLeave={() => setDropdownOpen(false)}
-          style={{ position: 'relative', height: '100%', display: 'flex', alignItems: 'center' }}
+          onClick={() => setDropdownOpen(!dropdownOpen)}
+          style={{ position: 'relative', display: 'flex', flexDirection: 'column', alignItems: 'center' }}
         >
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.2rem', cursor: 'pointer', color: 'var(--text-main)', fontWeight: 500, fontSize: '1.1rem' }}>
             Products <ChevronDown size={16} />

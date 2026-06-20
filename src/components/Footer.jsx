@@ -7,7 +7,7 @@ const Footer = () => {
       <div style={{ display: 'flex', justifyContent: 'space-between', padding: '0 8%', flexWrap: 'wrap', gap: '2rem' }}>
         <div style={{ flex: '1 1 250px' }}>
           <div style={{ background: '#fff', padding: '2rem', display: 'inline-block', borderRadius: '8px', marginBottom: '1.5rem' }}>
-            <h2 style={{ color: '#004d40', margin: 0, fontSize: '1.5rem', fontFamily: 'Playfair Display' }}>NUTNUTTIES</h2>
+            <h2 style={{ color: '#004d40', margin: 0, fontSize: '1.5rem', fontFamily: 'Playfair Display' }}>SR NUTS WORLD</h2>
             <p style={{ color: '#004d40', fontSize: '0.8rem', fontWeight: 'bold' }}>SHETYE BROTHERS & CO.</p>
             <p style={{ color: '#004d40', fontSize: '0.7rem' }}>(DRY FRUITS MERCHANT)</p>
           </div>
@@ -48,7 +48,7 @@ const Footer = () => {
       </div>
 
       <div style={{ borderTop: '1px solid rgba(255,255,255,0.1)', marginTop: '3rem', paddingTop: '1.5rem', textAlign: 'center', fontSize: '0.9rem', color: '#888', background: '#071217' }}>
-        <p>Powered by Techonnect Intelligence. Copyright © {new Date().getFullYear()} Nutnutties.</p>
+        <p>Powered by Techonnect Intelligence. Copyright © {new Date().getFullYear()} SR Nuts World.</p>
       </div>
     </footer>
   );

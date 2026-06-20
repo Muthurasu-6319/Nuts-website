@@ -94,7 +94,7 @@ const Products = () => {
             <div>
               <h3 style={{ color: 'var(--primary)', marginBottom: '1rem', fontFamily: 'Playfair Display', fontSize: '1.5rem' }}>Partner With Us</h3>
               <p style={{ color: 'var(--text-muted)', lineHeight: '1.8', marginBottom: '1.5rem' }}>
-                Whether you are a luxury hotel, a high-end restaurant, or an independent organic retailer, partnering with NutNutties guarantees your customers receive only the absolute best. We offer highly competitive bulk pricing, flexible white-label packaging solutions, and dedicated account management to ensure seamless supply.
+                Whether you are a luxury hotel, a high-end restaurant, or an independent organic retailer, partnering with SR Nuts World guarantees your customers receive only the absolute best. We offer highly competitive bulk pricing, flexible white-label packaging solutions, and dedicated account management to ensure seamless supply.
               </p>
               <Link to="/contact"><button className="btn">Contact Wholesale Team</button></Link>
             </div>
@@ -112,7 +112,7 @@ const Products = () => {
       {/* 5. Guarantee Section */}
       <section className="section" style={{ background: 'var(--primary)', color: '#fff' }}>
         <div className="content-wrapper" style={{ maxWidth: '800px' }}>
-          <h2 className="section-title" style={{ color: '#fff', fontSize: '3rem' }}>The NutNutties Guarantee</h2>
+          <h2 className="section-title" style={{ color: '#fff', fontSize: '3rem' }}>The SR Nuts World Guarantee</h2>
           <p style={{ fontSize: '1.2rem', lineHeight: '1.8', marginTop: '2rem' }}>
             We don't just sell nuts; we deliver an experience. If you are not <strong>100% satisfied</strong> with the freshness, crunch, or flavor of any product you receive, simply let us know. We will immediately replace your entire order or refund your purchase—no questions asked. 
             <br/><br/><strong>Absolute Quality is our unwavering promise to you.</strong>
@@ -145,7 +145,7 @@ const Products = () => {
       {/* 7. Newsletter Section */}
       <section className="section">
         <div className="content-wrapper" style={{ maxWidth: '800px', background: 'var(--bg-secondary)', padding: '4rem 2rem', borderRadius: '20px' }}>
-          <h2 className="section-title">Join the NutNutties Club</h2>
+          <h2 className="section-title">Join the SR Nuts World Club</h2>
           <p className="section-subtitle" style={{ marginBottom: '2rem' }}>Subscribe to receive exclusive VIP offers, early access to new product launches, and healthy recipes directly to your inbox.</p>
           <form style={{display: 'flex', gap: '1rem', justifyContent: 'center', maxWidth: '500px', margin: '0 auto'}}>
             <input type="email" placeholder="Enter your email address" className="input-field" required style={{ margin: 0, flex: 1 }} />
